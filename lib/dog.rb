@@ -1,3 +1,6 @@
 class Dog 
 end
-s
+
+rex = Dog.new 
+sharik = Dog.new 
+sera = Dog.new 
